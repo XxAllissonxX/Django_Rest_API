@@ -24,3 +24,8 @@ Projeto em Python com os Frameworks Django e Django Rest para desenvolvimento de
 + .\venv\scripts\activate ou source .venv/bin/activate
 + pip install -r requirements.txt
 + python manage.py migrate
+------------------------------------------------------
+
+Para testar a aplicação, rodar o comando no terminal python manage.py runserver \
+Copiar a url http://127.0.0.1:8000/  e abrir no navegador. \
+**OBS:** Adicione no final /api/alunos - http://127.0.0.1:8000/api/alunos/
