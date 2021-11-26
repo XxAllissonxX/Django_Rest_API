@@ -1,6 +1,3 @@
-**Candidato:** Allisson Fernando Barros de Oliveira
-
-**CANDIDATO A VAGA DE ESTÁGIO BACKEND**
 
 # Django_Rest_API
 Projeto em Python com os Frameworks Django e Django Rest para desenvolvimento de API
